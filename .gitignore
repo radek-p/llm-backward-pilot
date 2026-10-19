@@ -1,0 +1,7 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+*.tmp
+results*/**/searches/
+*.tar.gz
